@@ -26,7 +26,7 @@ Webový interface:
 
 ### Člen
 1. Osoba nebo jiná organizace, která vlastní *Membership token*.
-1. Je identifikován pomocí ETH adresy, případně pomocí nickname.
+1. Je identifikován pomocí ETH adresy a nickname.
 
 ### Membership token (GWEIMT)
 1. *Člen* má přesně 1 GWEIMT.
