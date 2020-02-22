@@ -8,6 +8,7 @@
 ### Člen
 1. Osoba nebo jiná organizace, která vlastní *Membership token* (viz. [Membership Token](#membership-token-gweimt)).
 1. Je identifikován pomocí ETH adresy a nickname.
+1. Seznam členů je publikovaný v separátním dokumentu [Seznam členů](Seznam-clenu.md).
 
 ### Membership token (GWEIMT)
 1. *Člen* má přesně 1 GWEIMT.
@@ -51,3 +52,4 @@
     1. Podává se pomocí vyvolání převodu financí (v rozhraní jako "Finance" → "New Transfer").
     1. Musí být doplněna detailní informací na co konkrétně se peníze použijí.
 1. Má vlastní pravidla, které určují základní procesy v rámci projektu.
+1. Jednotlivé projekty jsou sepsané v dokumentu [Projekty](Projekty.md).
