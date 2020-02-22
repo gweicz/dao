@@ -20,3 +20,4 @@ Webový interface:
 
 * [Pravidla](docs/Pravidla.md)
 * [Seznam členů](docs/Seznam-clenu.md)
+* [Projekty](docs/Projekty.md)
