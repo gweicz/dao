@@ -50,18 +50,19 @@ Webový interface:
 
 ### Povinnosti člena
 1. *Člen* by měl dbát na zachování dobrého jména *organizace* a měl by jednat čestně ve vztahu k ní a obzvláště pokud jedná v jejím jménu.
+1. Každý *člen* má povinnost platit každých 12 měsíců *členský poplatek*.
 1. "Členský poplatek":
-    1. Každý *člen* má povinnost platit každých 12 měsíců členský poplatek.
     1. Výše členského poplatku je 10 DAI.
     1. Poplatek se hradí pomocí depozitu dané čásky do Vault kontraktu (v rozhraní jako "Finance").
     1. Členský poplatek je nevratný.
 
 ### Projekt
 1. Projekt je záměr nějaké činnosti a/nebo její realizace.
-1. Každý projekt má svého vedoucího (*Vedoucí projektu*).
+1. Má svého vedoucího (*Vedoucí projektu*).
 1. "Vedoucí projektu":
     1. Řídí samotný projekt a předkládá zásadní otázky k *hlasování*.
-    1. Má právo zažádat o finanční *podporu projektu*.
+    1. Má právo podat *Žádost o finanční podporu*.
 1. "Žádost o finanční podporu":
-    1. Žádost se podává pomocí vyvolání převodu financí (v rozhraní jako "Finance" → "New Transfer").
-    1. Každá žádost musí být doplněna detailní informací na co konkrétně se peníze použijí.
+    1. Podává se pomocí vyvolání převodu financí (v rozhraní jako "Finance" → "New Transfer").
+    1. Musí být doplněna detailní informací na co konkrétně se peníze použijí.
+1. Má vlastní pravidla, které určují základní procesy v rámci projektu.
