@@ -18,4 +18,5 @@ Webový interface:
 
 ## Dokumenty
 
-* [Pravidla organizace](Pravidla.md)
+* [Pravidla](docs/Pravidla.md)
+* [Seznam členů](docs/Seznam-clenu.md)
