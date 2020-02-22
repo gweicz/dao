@@ -25,10 +25,11 @@ Webový interface:
 1. Činnost organizace se dělí na jednotlivé *projekty* (viz. Projekt).
 
 ### Člen
-1. Člen je osoba nebo jiná organizace, která vlastní *Membership token*.
+1. Osoba nebo jiná organizace, která vlastní *Membership token*.
+1. Je identifikován pomocí ETH adresy, případně pomocí nickname.
 
 ### Membership token (GWEIMT)
-1. Každý člen má přesně 1 GWEIMT.
+1. *Člen* má přesně 1 GWEIMT.
 1. Token je nepřeveditelný.
 1. Odebrání tokenu, nebo přidání nového je nutné schválit pomocí *hlasování* (viz. Hlasování).
 
@@ -42,10 +43,12 @@ Webový interface:
     
 ### Žádost o členství
 1. "Žádost o členství" (*žádost*) znamená vyvolání hlasování o přidělení *Membership tokenu* nečlenovi.
-1. *Žádost* může podat každý, kdo splní následující podmínky:
-    1. Byl pozván současným *členem*.
-    1. Souhlasí a je seznámen s pravidly *organizace*.
-    1. Zaplatil vstupní poplatek 10 DAI.
+1. *Žádost* může podat každá osoba nebo organizace, která splní následující podmínky:
+    1. Byl/a pozván současným *členem*.
+    1. Je plně seznámen/a s pravidly *organizace*, případně s pravidly jednotlivých *projektů*, na kterých se chce podílet a je ochotný/á tyto pravidla respektovat. 
+    1. Ověřil/a svojí identitu (ETH adresa a nickname) tím, že vytvořil/a digitální podpis následujícího textu pomocí svého privátího klíče a tento podpis přiložil/a k žádosti:
+        * `Jsem seznámen s pravidly Gwei.cz DAO a chci se stát jejím členem: <<NICKNAME>>`
+    1. Zaplatil/a vstupní poplatek 10 DAI.
 1. Každá *žádost* bude posouzena současnými *členy* pomocí *hlasování*.
 
 ### Povinnosti člena
@@ -60,6 +63,7 @@ Webový interface:
 1. Projekt je záměr nějaké činnosti a/nebo její realizace.
 1. Má svého vedoucího (*Vedoucí projektu*).
 1. "Vedoucí projektu":
+    1. Vedoucí projektu musí být člen *organizace*.
     1. Řídí samotný projekt a předkládá zásadní otázky k *hlasování*.
     1. Má právo podat *Žádost o finanční podporu*.
 1. "Žádost o finanční podporu":
