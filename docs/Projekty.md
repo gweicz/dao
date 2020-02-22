@@ -2,7 +2,7 @@
 
 ## Gwei.cz - Jádro (core)
 
-https://github.com/gweicz/core
+* [Git repozitář [gweicz/core]](https://github.com/gweicz/core)
 
 Zúčastnění členové:
 * *všichni členové*
@@ -32,7 +32,7 @@ Zúčastnění členové:
 
 
 ## dCZK - Decentralizovaná koruna
-https://github.com/gweicz/dCZK
+* [Git repozitář [gweicz/dczk]](https://github.com/gweicz/dczk)
 
 Zúčastnění členové:
 * @tree
