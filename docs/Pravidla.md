@@ -34,12 +34,13 @@
 1. Každá *žádost* bude posouzena současnými *členy* pomocí *hlasování* (viz. [Hlasování](#hlasování)).
 
 ### Povinnosti člena
-1. *Člen* by měl dbát na zachování dobrého jména *organizace* a měl by jednat čestně ve vztahu k ní a obzvláště pokud jedná v jejím jménu.
-1. Každý *člen* má povinnost platit každých 12 měsíců *členský poplatek*.
+1. Musí dbát na zachování dobrého jména *organizace* a měl by jednat čestně ve vztahu k ní a obzvláště pokud jedná v jejím jménu.
+1. Má povinnost platit každých 12 měsíců *členský poplatek*.
 1. "Členský poplatek":
     1. Výše členského poplatku je 10 DAI.
     1. Poplatek se hradí pomocí depozitu dané čásky do Vault kontraktu (v rozhraní jako "Finance").
     1. Členský poplatek je nevratný.
+1. Musí být seznámen se základními bezpečnostními pravidly a musí ochraňovat privátní klíč k jeho členské ETH adrese, nejlépe pomocí HW peněženky.
 
 ### Projekt
 1. Projekt je záměr nějaké činnosti a/nebo její realizace.
