@@ -1,8 +1,8 @@
 ## Pravidla Gwei.cz DAO
 
 ### Organizace
-1. Organizaci tvoří její *členové* (Viz. [Člen](#clen)).
-1. Rozhodování v rámci organizace probíhá pomocí *hlasování* (viz. [Hlasování](#hlasovani)).
+1. Organizaci tvoří její *členové* (Viz. [Člen](#člen)).
+1. Rozhodování v rámci organizace probíhá pomocí *hlasování* (viz. [Hlasování](#hlasování)).
 1. Činnost organizace se dělí na jednotlivé *projekty* (viz. [Projekt](#projekt)).
 
 ### Člen
@@ -12,7 +12,7 @@
 ### Membership token (GWEIMT)
 1. *Člen* má přesně 1 GWEIMT.
 1. Token je nepřeveditelný.
-1. Odebrání tokenu, nebo přidání nového je nutné schválit pomocí *hlasování* (viz. [Hlasování](#hlasovani)).
+1. Odebrání tokenu, nebo přidání nového je nutné schválit pomocí *hlasování* (viz. [Hlasování](#hlasování)).
 
 ### Hlasování
 1. Hlasování může vyvolat kterýkoliv *člen*.
@@ -30,7 +30,7 @@
     1. Ověřil/a svojí identitu (ETH adresa a nickname) tím, že vytvořil/a digitální podpis následujícího textu pomocí svého privátího klíče a tento podpis přiložil/a k žádosti:
         * `Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, <<NICKNAME>>`
     1. Zaplatil/a vstupní poplatek 10 DAI.
-1. Každá *žádost* bude posouzena současnými *členy* pomocí *hlasování* (viz. [Hlasování](#hlasovani)).
+1. Každá *žádost* bude posouzena současnými *členy* pomocí *hlasování* (viz. [Hlasování](#hlasování)).
 
 ### Povinnosti člena
 1. *Člen* by měl dbát na zachování dobrého jména *organizace* a měl by jednat čestně ve vztahu k ní a obzvláště pokud jedná v jejím jménu.
