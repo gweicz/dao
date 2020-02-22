@@ -20,7 +20,9 @@ Webový interface:
 ## Pravidla
 
 ### Organizace
+1. Organizaci tvoří její *členové* (Viz. Člen).
 1. Rozhodování v rámci organizace probíhá pomocí *hlasování* (viz. Hlasování).
+1. Činnost organizace se dělí na jednotlivé *projekty* (viz. Projekt).
 
 ### Člen
 1. Člen je osoba nebo jiná organizace, která vlastní *Membership token*.
@@ -48,8 +50,18 @@ Webový interface:
 
 ### Povinnosti člena
 1. *Člen* by měl dbát na zachování dobrého jména *organizace* a měl by jednat čestně ve vztahu k ní a obzvláště pokud jedná v jejím jménu.
-1. Členský poplatek:
+1. "Členský poplatek":
     1. Každý *člen* má povinnost platit každých 12 měsíců členský poplatek.
     1. Výše členského poplatku je 10 DAI.
     1. Poplatek se hradí pomocí depozitu dané čásky do Vault kontraktu (v rozhraní jako "Finance").
     1. Členský poplatek je nevratný.
+
+### Projekt
+1. Projekt je záměr nějaké činnosti a/nebo její realizace.
+1. Každý projekt má svého vedoucího (*Vedoucí projektu*).
+1. "Vedoucí projektu":
+    1. Řídí samotný projekt a předkládá zásadní otázky k *hlasování*.
+    1. Má právo zažádat o finanční *podporu projektu*.
+1. "Žádost o finanční podporu":
+    1. Žádost se podává pomocí vyvolání převodu financí (v rozhraní jako "Finance" → "New Transfer").
+    1. Každá žádost musí být doplněna detailní informací na co konkrétně se peníze použijí.
