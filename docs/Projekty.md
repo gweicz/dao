@@ -1,8 +1,8 @@
 # Projekty Gwei.cz DAO
 
-## Gwei.cz - Jádro (core)
+## Gwei.cz Maintenance
 
-* [Git repozitář [gweicz/core]](https://github.com/gweicz/core)
+* [Git repozitář [gweicz/maintenance]](https://github.com/gweicz/maintenance)
 
 Zúčastnění členové:
 * *všichni členové*
@@ -13,7 +13,7 @@ Součásti:
 * GitHub organizace `gweicz` - https://github.com/gweicz
 
 
-## Gwei.cz - Komunita
+## Gwei.cz Community
 Záměr:
 * Vybudovat komunitu lidí, které spojuje zájem v budování/používání decentralizovaných financí (DeFi) a kryptoměny/sítě Ethereum (ETH).
 
@@ -25,7 +25,7 @@ Součásti:
 1. Diskuzní server (Discord)
 
 
-## Gwei.cz - Infomační web
+## Gwei.cz Infomační web
 Zúčastnění členové:
 * @rixcian
 * @tree
