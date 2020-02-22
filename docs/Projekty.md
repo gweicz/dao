@@ -2,6 +2,8 @@
 
 ## Gwei.cz - Jádro (core)
 
+https://github.com/gweicz/core
+
 Zúčastnění členové:
 * *všichni členové*
 
