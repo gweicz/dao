@@ -44,9 +44,9 @@
 
 ### Projekt
 1. Projekt je záměr nějaké činnosti a/nebo její realizace.
-1. Má svého vedoucího (*Vedoucí projektu*).
-1. "Vedoucí projektu":
-    1. Vedoucí projektu musí být člen *organizace*.
+1. Musí mít minimálně 1 *zůčastněného člena*, ale může jich být i více.
+1. "Zúčastněný člen":
+    1. Musí být *člen* *organizace*.
     1. Řídí samotný projekt a předkládá zásadní otázky k *hlasování*.
     1. Má právo podat *Žádost o finanční podporu*.
 1. "Žádost o finanční podporu":
