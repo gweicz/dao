@@ -15,8 +15,8 @@ Záměr:
 * Vybudovat komunitu lidí, které spojuje zájem v budování/používání decentralizovaných financí (DeFi) a kryptoměny/sítě Ethereum (ETH).
 
 Vedoucí projektu:
-* tree
-* rixcian  
+* @tree
+* @rixcian  
 
 Součásti:
 1. Diskuzní server (Discord)
@@ -24,9 +24,9 @@ Součásti:
 
 ## Gwei.cz - Infomační web
 Vedoucí projektu:
-* rixcian
+* @rixcian
 
 ## dCZK - Decentralizovaná koruna
 Vedoucí projektu:
-* tree
+* @tree
   
