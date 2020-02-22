@@ -47,7 +47,7 @@ Webový interface:
     1. Byl/a pozván současným *členem*.
     1. Je plně seznámen/a s pravidly *organizace*, případně s pravidly jednotlivých *projektů*, na kterých se chce podílet a je ochotný/á tyto pravidla respektovat. 
     1. Ověřil/a svojí identitu (ETH adresa a nickname) tím, že vytvořil/a digitální podpis následujícího textu pomocí svého privátího klíče a tento podpis přiložil/a k žádosti:
-        * `Jsem seznámen s pravidly Gwei.cz DAO a chci se stát jejím členem: <<NICKNAME>>`
+        * `Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, <<NICKNAME>>`
     1. Zaplatil/a vstupní poplatek 10 DAI.
 1. Každá *žádost* bude posouzena současnými *členy* pomocí *hlasování*.
 
