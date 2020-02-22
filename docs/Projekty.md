@@ -1,6 +1,6 @@
 # Projekty Gwei.cz DAO
 
-## Gwei.cz - Jádro
+## Gwei.cz - Jádro (core)
 
 Zúčastnění členové:
 * *všichni členové*
