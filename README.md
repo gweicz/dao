@@ -33,18 +33,18 @@ Webový interface:
 ### Hlasování
 1. Hlasování může vyvolat kterýkoliv *člen*.
 1. Každý *člen* má právo hlasovat o každém návrhu.
-1. Hlasování trvá 24 hodin.
+1. Hlasování trvá 24 hodin (1 den).
 1. Pro schválení návrhu musí být splněno následující:
-    1. Počet kladných odpovědí musí být minimálně 51% (*Support*).
-    1. Počet hlasujících musí být minimálně 15% ze všech *členů* (*Minimal Approval*).
+    1. Počet kladných odpovědí musí být minimálně 51% (tzv. Support).
+    1. Počet hlasujících musí být minimálně 15% ze všech *členů* (tzv. Minimal Approval).
     
 ### Žádost o členství
-1. "Žádost o členství" znamená vyvolání hlasování o přidělení *Membership tokenu* nečlenovi.
-1. Žádost může podat každý, kdo splní následující podmínky:
+1. "Žádost o členství" (*žádost*) znamená vyvolání hlasování o přidělení *Membership tokenu* nečlenovi.
+1. *Žádost* může podat každý, kdo splní následující podmínky:
     1. Byl pozván současným *členem*.
     1. Souhlasí a je seznámen s pravidly *organizace*.
     1. Zaplatil vstupní poplatek 10 DAI.
-1. Každá žádost bude posouzena současnými členy pomocí hlasování.
+1. Každá *žádost* bude posouzena současnými *členy* pomocí *hlasování*.
 
 ### Povinnosti člena
 1. *Člen* by měl dbát na zachování dobrého jména *organizace* a měl by jednat čestně ve vztahu k ní a obzvláště pokud jedná v jejím jménu.
@@ -52,3 +52,4 @@ Webový interface:
     1. Každý *člen* má povinnost platit každých 12 měsíců členský poplatek.
     1. Výše členského poplatku je 10 DAI.
     1. Poplatek se hradí pomocí depozitu dané čásky do Vault kontraktu (v rozhraní jako "Finance").
+    1. Členský poplatek je nevratný.
