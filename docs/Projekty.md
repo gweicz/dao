@@ -9,8 +9,10 @@ Zúčastnění členové:
 
 Součásti:
 * Webová doména `gwei.cz`
-* ENS doména `gweicz.eth`
-* GitHub organizace `gweicz` - https://github.com/gweicz
+* Webová stránka [`gwei.cz`](https://gwei.cz) ([repozitář `gweicz/web`](https://github.com/gweicz/web))
+* ENS doména [`gweicz.eth`](https://app.ens.domains/name/gweicz.eth)
+* GitHub organizace [`gweicz`](https://github.com/gweicz)
+* Twitter účet [`gweicz`](https://twitter.com/gweicz)
 
 
 ## Gwei.cz Community
@@ -25,7 +27,10 @@ Součásti:
 1. Diskuzní server (Discord)
 
 
-## Gwei.cz Infomační web
+## Gwei.cz Infomační web (Knowledge base)
+Git repozitáře:
+* [gweicz/zdroje](https://github.com/gweicz/zdroje)
+
 Zúčastnění členové:
 * @rixcian
 * @tree
