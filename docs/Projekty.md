@@ -11,12 +11,12 @@ Zúčastnění členové:
 * *všichni členové*
 
 Součásti:
-* Webová doména `gwei.cz`
-* Informační web [`gwei.cz`](https://gwei.cz) ([repozitář `gweicz/docs`](https://github.com/gweicz/docs))
-* ENS doména [`gweicz.eth`](https://app.ens.domains/name/gweicz.eth)
-* GitHub organizace [`gweicz`](https://github.com/gweicz)
-* Twitter účet [`gweicz`](https://twitter.com/gweicz)
-* Discord server
+* Webová doména `gwei.cz` (su: @tree)
+* Informační web [`gwei.cz`](https://gwei.cz) ([repozitář `gweicz/docs`](https://github.com/gweicz/docs)) (su: @tree)
+* ENS doména [`gweicz.eth`](https://app.ens.domains/name/gweicz.eth) (su: dao)
+* GitHub organizace [`gweicz`](https://github.com/gweicz) (su: @tree)
+* Twitter účet [`gweicz`](https://twitter.com/gweicz) (su: @tree)
+* Discord server (su: @tree)
 
 
 ## dCZK - Decentralizovaná koruna
