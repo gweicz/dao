@@ -11,13 +11,17 @@ Nickname        | ETH adresa                                   | Sig.           
 
 ## Podpisy
 
+Nástroje pro podpis/ověření:
+* Trezor - https://beta-wallet.trezor.io/next
+* Metamask/Web3 - https://beta.mycrypto.com/verify-message
+
 ### sig-tree
 ```json
 {
   "address": "0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea",
   "msg": "Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, tree",
-  "version": "2",
-  "sig": "5b53029a4b50c1fd463adeff0807465d6fa43d06504f00fbc9474f96e0f317163d6fbf6ee9378944bdad42ee5bdbf75bc154af8ed04fafa7e57237549d011d8d1b"
+  "sig": "5b53029a4b50c1fd463adeff0807465d6fa43d06504f00fbc9474f96e0f317163d6fbf6ee9378944bdad42ee5bdbf75bc154af8ed04fafa7e57237549d011d8d1b",
+  "version": "2"
 }
 ```
 
