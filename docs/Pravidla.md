@@ -4,6 +4,7 @@
 1. Organizaci tvoří její *členové* (Viz. [Člen](#člen)).
 1. Rozhodování v rámci organizace probíhá pomocí *hlasování* (viz. [Hlasování](#hlasování)).
 1. Činnost organizace se dělí na jednotlivé *projekty* (viz. [Projekt](#projekt)).
+1. Jakkákoliv změna pravidel organizace musí být odsouhlasená pomocí *hlasování*.
 
 ## Člen
 1. Osoba nebo jiná organizace, která vlastní *Membership token* (viz. [Membership Token](#membership-token-gweimt)).
