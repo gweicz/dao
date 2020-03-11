@@ -2,10 +2,10 @@
 
 ## Gwei.cz Maintenance
 
+* [Git repozitář [gweicz/maintenance]](https://github.com/gweicz/maintenance)
+
 Záměr:
 * Vybudovat komunitu lidí, které spojuje zájem v budování/používání decentralizovaných financí (DeFi) a kryptoměny/sítě Ethereum (ETH).
-
-* [Git repozitář [gweicz/maintenance]](https://github.com/gweicz/maintenance)
 
 Zúčastnění členové:
 * *všichni členové*
