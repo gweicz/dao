@@ -10,6 +10,7 @@
 1. Osoba nebo jiná organizace, která vlastní *Membership token* (viz. [Membership Token](#membership-token-gweimt)).
 1. Je identifikován pomocí ETH adresy a nickname.
 1. Seznam členů je publikovaný v separátním dokumentu [Seznam členů](Seznam-clenu.md).
+1. Člen má možnost organizaci opustit bez udání důvodu na vlastní žádost - ostatní členové to musí respektovat.
 
 ## Membership token (GWEIMT)
 1. *Člen* má přesně 1 GWEIMT.
