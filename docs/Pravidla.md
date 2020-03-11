@@ -43,6 +43,7 @@
     1. Poplatek se hradí pomocí depozitu dané čásky do Vault kontraktu (v rozhraní jako "Finance").
     1. Členský poplatek je nevratný.
 1. Musí být seznámen se základními bezpečnostními pravidly a musí ochraňovat privátní klíč k jeho členské ETH adrese, nejlépe pomocí HW peněženky.
+1. Člen má při ztrátě privátního klíče od své peněženky povinnost okamžitě informovat vedení DAO
 
 ## Projekt
 1. Projekt je záměr nějaké činnosti a/nebo její realizace.
