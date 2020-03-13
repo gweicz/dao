@@ -1,12 +1,12 @@
 # Seznam členů Gwei.cz DAO
 
 
-Nickname        | ETH adresa                                   | Sig.                |  Discord         | Pozván členem | Členem od
----             | ---                                          | ---                 | ---              | ---           | ---
-**tree**        | `0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea` | [sig](#sig-tree)    | tree#7466        | -             | -
-**rixcian**     | `0x948b77ae15b2f17a432770afdEd9fa449BDF4f60` | [sig](#sig-rixcian) | rixcian#4383     | -             | -
-**coinmandeer** | `?`                                          |                     | coinmandeer#9287 | -             | -
-**cryptomario** | `?`                                          |                     | cryptomario#0917 | -             | -
+Nickname        | ETH adresa                                   | Sig.                    |  Discord         | Pozván členem | Členem od
+---             | ---                                          | ---                     | ---              | ---           | ---
+**tree**        | `0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea` | [sig](#sig-tree)        | tree#7466        | -             | -
+**rixcian**     | `0x948b77ae15b2f17a432770afdEd9fa449BDF4f60` | [sig](#sig-rixcian)     | rixcian#4383     | -             | -
+**Coinmandeer** | `0xf5fe364d18f4a5a53badce9a046ba74cfc97f6fb` | [sig](#sig-Coinmandeer) | coinmandeer#9287 | -             | -
+**cryptomario** | `?`                                          |                         | cryptomario#0917 | -             | -
 
 
 ## Podpisy
@@ -31,6 +31,16 @@ Nástroje pro podpis/ověření:
   "address": "0x948b77ae15b2f17a432770afdEd9fa449BDF4f60",
   "msg": "Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, rixcian",
   "sig": "0xf35769f3d91912a59f5760dfea68183ebc614e424044d22e9c475a553bba1e8a0501b4a3f38093c7e9e45f6539bd2289f73ab2cc015e1aad0adf0a45f248c15e1b",
+  "version": "2"
+}
+```
+
+### sig-Coinmandeer
+```json
+{
+  "address": "0xf5fe364d18f4a5a53badce9a046ba74cfc97f6fb",
+  "msg": "Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, Coinmandeer",
+  "sig": "0xd62ff4ceb2dcd4d7514671686f354e32afe034771fe2eb74d741155c726e5f760e05e42f7e1375a53fcc2928f1d6c6add6194bcaa03e4ccc980803eb6f7bc6271b",
   "version": "2"
 }
 ```
