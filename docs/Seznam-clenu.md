@@ -5,7 +5,7 @@ Nickname        | ETH adresa                                   | Sig.           
 ---             | ---                                          | ---                     | ---              | ---           | ---
 **tree**        | `0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea` | [sig](#sig-tree)        | tree#7466        | -             | -
 **rixcian**     | `0x948b77ae15b2f17a432770afdEd9fa449BDF4f60` | [sig](#sig-rixcian)     | rixcian#4383     | -             | -
-**Coinmandeer** | `0xf5fe364d18f4a5a53badce9a046ba74cfc97f6fb` | [sig](#sig-Coinmandeer) | coinmandeer#9287 | -             | -
+**Coinmandeer** | `0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb` | [sig](#sig-Coinmandeer) | coinmandeer#9287 | -             | -
 **cryptomario** | `?`                                          |                         | cryptomario#0917 | -             | -
 
 
@@ -38,7 +38,7 @@ Nástroje pro podpis/ověření:
 ### sig-Coinmandeer
 ```json
 {
-  "address": "0xf5fe364d18f4a5a53badce9a046ba74cfc97f6fb",
+  "address": "0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb",
   "msg": "Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, Coinmandeer",
   "sig": "0xd62ff4ceb2dcd4d7514671686f354e32afe034771fe2eb74d741155c726e5f760e05e42f7e1375a53fcc2928f1d6c6add6194bcaa03e4ccc980803eb6f7bc6271b",
   "version": "2"
