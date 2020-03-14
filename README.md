@@ -14,10 +14,6 @@ Adresa hlavního DAO smart-kontraktu:
 * ENS: `gweicz.aragonid.eth`, `dao.gweicz.eth`
 
 Webový interface:
+* https://dao.gwei.cz/ (zkratka)
 * https://mainnet.aragon.org/#/gweicz
 
-## Dokumenty
-
-* [Pravidla](docs/Pravidla.md)
-* [Seznam členů](docs/Seznam-clenu.md)
-* [Projekty](docs/Projekty.md)
