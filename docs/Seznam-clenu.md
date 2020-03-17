@@ -6,7 +6,7 @@ Nickname        | ETH adresa                                   | Sig.           
 **tree**        | `0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea` | [sig](#sig-tree)        | tree#7466        | -             | -
 **rixcian**     | `0x948b77ae15b2f17a432770afdEd9fa449BDF4f60` | [sig](#sig-rixcian)     | rixcian#4383     | -             | -
 **Coinmandeer** | `0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb` | [sig](#sig-Coinmandeer) | coinmandeer#9287 | -             | -
-**cryptomario** | `?`                                          |                         | cryptomario#0917 | -             | -
+**cryptomario** | `0xcf4ef2ed078f7115ca0dd4bc9294d97e774ec38a` | [sig](#sig-cryptomario) | cryptomario#0917 | -             | -
 
 
 ## Podpisy
@@ -42,5 +42,15 @@ Nástroje pro podpis/ověření:
   "msg": "Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, Coinmandeer",
   "sig": "0xd62ff4ceb2dcd4d7514671686f354e32afe034771fe2eb74d741155c726e5f760e05e42f7e1375a53fcc2928f1d6c6add6194bcaa03e4ccc980803eb6f7bc6271b",
   "version": "2"
+}
+```
+
+### sig-cryptomario
+```json
+{
+  "address": "0xcf4ef2ed078f7115ca0dd4bc9294d97e774ec38a",
+  "msg": "Jsem seznámen s pravidly Gwei.cz DAO, zavazuji se tyto pravidla respektovat a chci se stát členem, cryptomario",
+  "sig": "0x2021f5add47615c4413a58c3d568fc707d20e677f7afa703f3e64b7050bb63483ce9229f7de47bbb2a2176873f495e11d961c3170845f5bb641e4c1374245d8f1c",
+  "version": "3"
 }
 ```
