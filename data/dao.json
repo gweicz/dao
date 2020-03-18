@@ -1,4 +1,14 @@
 {
+  "core": {
+    "ens": [
+      "gweicz.aragonid.eth",
+      "dao.gweicz.eth"
+    ],
+    "frontend": [
+      "https://dao.gwei.cz/",
+      "https://mainnet.aragon.org/#/gweicz"
+    ]
+  },
   "aragon": {
     "dao": {
       "address": "0x5967ef9d887bebf21b184a4107e139645528b091"
