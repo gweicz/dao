@@ -6,11 +6,18 @@ require 'erb'
 # conf
 docs_src_path = 'src/docs/'
 docs_path = 'docs/'
-aragon_labels_file = 'data/aragon-labels.json'
+data_src_path = 'src/'
+data_path = 'data/'
+aragon_labels_file = data_path + 'aragon-labels.json'
 
 # ---------------------------
 
 dao = YAML.load(File.read('src/dao.yaml'))
+
+# build DAO file
+dao_file = data_path + 'dao.json'
+File.open(dao_file, 'w') { |f| f.write(JSON.pretty_generate(dao)) }
+puts "Generated DAO file: #{dao_file}"
 
 # build aragon labels
 aragon_labels = []
