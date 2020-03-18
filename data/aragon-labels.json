@@ -1,0 +1,42 @@
+[
+  {
+    "name": "gweicz-dao",
+    "address": "0x5967ef9d887bebf21b184a4107e139645528b091"
+  },
+  {
+    "name": "gweicz-vault",
+    "address": "0xe37590dcf41b9f8e5ad58166985989284a952d25"
+  },
+  {
+    "name": "gweicz-voting",
+    "address": "0x69c66be99dcee9be8de2cece86f58d78979202c2"
+  },
+  {
+    "name": "gweicz-finance",
+    "address": "0xde6a8161bfb3216e6e04f87fa14e7c91d85c337d"
+  },
+  {
+    "name": "gweicz-tokens",
+    "address": "0xccd14d00db6f9ec292b1c38b978eb880499016a3"
+  },
+  {
+    "name": "gweicz-agent",
+    "address": "0x4d07af703c163540c59763ff404710204334af81"
+  },
+  {
+    "name": "@tree",
+    "address": "0xA1e2421A68f0208B75ACb0014a69E89b1F7492ea"
+  },
+  {
+    "name": "@rixcian",
+    "address": "0x948b77ae15b2f17a432770afdEd9fa449BDF4f60"
+  },
+  {
+    "name": "@Coinmandeer",
+    "address": "0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb"
+  },
+  {
+    "name": "@cryptomario",
+    "address": "0xCf4ef2Ed078f7115Ca0Dd4BC9294D97E774ec38a"
+  }
+]
