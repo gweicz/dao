@@ -45,6 +45,7 @@ members:
   cryptomario:
     address: '0xCf4ef2Ed078f7115Ca0Dd4BC9294D97E774ec38a'
     discord: cryptomario#0917
+    sig: '0x2021f5add47615c4413a58c3d568fc707d20e677f7afa703f3e64b7050bb63483ce9229f7de47bbb2a2176873f495e11d961c3170845f5bb641e4c1374245d8f1c'
 
 projects:
   maintenance:
