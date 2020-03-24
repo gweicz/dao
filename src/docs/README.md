@@ -17,3 +17,5 @@ Adresa hlavního DAO smart-kontraktu:
 
 Webový interface: <% for url in dao['core']['frontend'] %>
 * <<%= url %>><% end %>
+
+[Importovat Aragon Labely](<%= dao['aragon_labels_url'] %>)

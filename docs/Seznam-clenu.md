@@ -7,3 +7,7 @@ Nickname | ETH adresa | Discord | Pozván členem | Členem od
 **Coinmandeer**  | `0xf5Fe364D18F4a5A53BADCe9a046ba74cfC97f6Fb`  | coinmandeer#9287  | -  | - 
 **cryptomario**  | `0xCf4ef2Ed078f7115Ca0Dd4BC9294D97E774ec38a`  | cryptomario#0917  | -  | - 
 
+
+
+----
+*Generováno 2020-03-24 08:51:04 +0100*

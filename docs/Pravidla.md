@@ -57,3 +57,7 @@
     1. Musí být doplněna detailní informací na co konkrétně se peníze použijí.
 1. Má vlastní pravidla, které určují základní procesy v rámci projektu.
 1. Jednotlivé projekty jsou sepsané v dokumentu [Projekty](Projekty.md).
+
+
+----
+*Generováno 2020-03-24 08:51:04 +0100*
