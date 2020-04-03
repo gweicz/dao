@@ -6,10 +6,10 @@ require 'base64'
 require 'date'
 
 # conf
-docs_src_path = 'src/docs/'
-docs_path = 'docs/'
 data_src_path = 'src/'
+docs_src_path = 'src/docs/'
 build_path = 'build/'
+docs_path = build_path + 'docs/'
 aragon_labels_file = build_path + 'aragon-labels.json'
 
 # ---------------------------
