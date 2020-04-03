@@ -1,12 +1,14 @@
 # Gwei.cz DAO
 
+* [Aktuální dokumentace](/build/docs)
+* [Zdrojové data](/src)
 
-## How to build
+## Jak vygenerovat aktuální dokumentaci
 
-Requirements:
+Požadavky:
 * Ruby 2+ (installed automatically on MacOS)
 
-DAO target data files & docs can be builded by simple command:
+Příklad pro vygenerování aktuální DAO dokumentace a datových souborů:
 ```bash
 rake
 ```

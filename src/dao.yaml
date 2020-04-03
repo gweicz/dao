@@ -69,6 +69,10 @@ projects:
         su: [ 'dao' ]
       - name: Aragon DAO `gweicz`
         su: [ 'dao' ]
-      - name: DAO Keybase team `gweicz`
-        su: [ '@tree', '@coinmandeer', '@cryptomario' ]
+      - name: Keybase team `gweicz`
+        su: [ '@tree', '@rixcian', '@coinmandeer', '@cryptomario' ]
+      - name: Discourse forum `forum.gwei.cz`
+        url: https://forum.gwei.cz
+        su: [ '@tree', '@rixcian', '@coinmandeer', '@cryptomario' ]
+
 

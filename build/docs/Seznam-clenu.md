@@ -10,4 +10,4 @@ Nickname | ETH adresa | Discord | Pozván členem | Členem od
 
 
 ----
-*Generováno 2020-04-03 20:32:52 +0200*
+*Generováno 2020-04-03 20:42:50 +0200*

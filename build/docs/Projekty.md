@@ -17,10 +17,11 @@ Záměr:
 * Twitter účet `gweicz` (su: @tree) ([link](https://twitter.com/gweicz))
 * Discord server `gwei.cz` (id: 677477899464343582) (su: dao)
 * Aragon DAO `gweicz` (su: dao)
-* DAO Keybase team `gweicz` (su: @tree, @coinmandeer, @cryptomario)
+* Keybase team `gweicz` (su: @tree, @rixcian, @coinmandeer, @cryptomario)
+* Discourse forum `forum.gwei.cz` (su: @tree, @rixcian, @coinmandeer, @cryptomario) ([link](https://forum.gwei.cz))
 
 
 
 
 ----
-*Generováno 2020-04-03 20:32:52 +0200*
+*Generováno 2020-04-03 20:42:50 +0200*
