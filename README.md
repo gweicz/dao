@@ -8,8 +8,8 @@
 Požadavky:
 * Ruby 2+ (installed automatically on MacOS)
 
-Příklad pro vygenerování aktuální DAO dokumentace a datových souborů:
+Příkaz pro vygenerování aktuální DAO dokumentace a datových souborů:
 ```bash
-rake
+$ rake
 ```
 
