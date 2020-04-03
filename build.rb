@@ -44,6 +44,13 @@ dao_file = build_path + 'dao.json'
 File.open(dao_file, 'w') { |f| f.write(JSON.pretty_generate(dao)) }
 puts "=> #{dao_file}"
 
+
+# build rules file
+rules = YAML.load(File.read('src/rules.yaml'))
+rules_file = build_path + 'rules.json'
+File.open(rules_file, 'w') { |f| f.write(JSON.pretty_generate(rules)) }
+puts "=> #{rules_file}"
+
 # build docs
 docs_files = Dir.entries(docs_src_path).select {|f| !File.directory? f}
 puts "Generating docs .."
