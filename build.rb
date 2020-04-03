@@ -8,15 +8,15 @@ require 'base64'
 docs_src_path = 'src/docs/'
 docs_path = 'docs/'
 data_src_path = 'src/'
-data_path = 'data/'
-aragon_labels_file = data_path + 'aragon-labels.json'
+build_path = 'build/'
+aragon_labels_file = build_path + 'aragon-labels.json'
 
 # ---------------------------
 puts "Generating DAO data files .."
 dao = YAML.load(File.read('src/dao.yaml'))
 
 # build member signatures
-sigs_file = data_path + 'member-signatures.json'
+sigs_file = build_path + 'member-signatures.json'
 sigs = []
 dao['members'].each do |k, m|
   sigs << {
@@ -38,7 +38,7 @@ dao['aragon_labels_url'] = "https://mainnet.aragon.org/#/gweicz/organization/?pr
 puts "=> #{aragon_labels_file}"
 
 # build DAO file
-dao_file = data_path + 'dao.json'
+dao_file = build_path + 'dao.json'
 File.open(dao_file, 'w') { |f| f.write(JSON.pretty_generate(dao)) }
 puts "=> #{dao_file}"
 
