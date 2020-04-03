@@ -3,6 +3,7 @@ require 'yaml'
 require 'json'
 require 'erb'
 require 'base64'
+require 'date'
 
 # conf
 docs_src_path = 'src/docs/'
@@ -38,6 +39,7 @@ dao['aragon_labels_url'] = "https://mainnet.aragon.org/#/gweicz/organization/?pr
 puts "=> #{aragon_labels_file}"
 
 # build DAO file
+dao['generated_on'] = DateTime.now.iso8601()
 dao_file = build_path + 'dao.json'
 File.open(dao_file, 'w') { |f| f.write(JSON.pretty_generate(dao)) }
 puts "=> #{dao_file}"
